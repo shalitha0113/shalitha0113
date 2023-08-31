@@ -7,7 +7,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shalitha0113's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shalitha0113&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalitha0113&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shalitha0113" height="192px"/>
     
   <br/>
   <p align="center">
