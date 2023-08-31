@@ -2,9 +2,9 @@
 <h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shalitha0113&theme=algolia" alt="shalitha0113" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shalitha0113&theme=blueberry" alt="shalitha0113" /></p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shalitha0113's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shalitha0113&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shalitha0113's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shalitha0113&show_icons=true&count_private=true&theme=blueberry" height="192px"/></a>
 <br/>
   &nbsp;
     
@@ -16,7 +16,7 @@
 
   ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalitha0113&layout=compact&theme=algolia" alt="shalitha0113" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalitha0113&layout=compact&theme=blueberry" alt="shalitha0113" /></a> </p>
 
 <br><br>
 
