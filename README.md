@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Shalitha Morapitiya</h1>
-<h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shalitha0113&theme=blueberry" alt="shalitha0113" /></p>
