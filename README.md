@@ -25,6 +25,12 @@
 <a href="https://www.linkedin.com/in/shalitha-morapitiya-b368b6136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalitha-morapitiya-b368b6136" height="30" width="40" /></a>
 <br><br>
 
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalitha0113" alt="shalitha0113" />
+</p>
+
+📫 How to reach me **shalithamorapitiya@gmail.com**
+
 
 <!--
 **shalitha0113/shalitha0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
