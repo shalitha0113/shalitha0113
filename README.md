@@ -9,6 +9,9 @@
   &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shalitha0113&langs_count=10&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="shalitha0113" height="192px"/>
     
+<p align="center">
+  <a href="https://app.daily.dev/shalitha0113"><img src="https://api.daily.dev/devcards/40a743d31b5d490680235e0cddeb8b51.png?r=9hj" width="250" alt="Shalitha's Dev Card"/></a>
+    
   <br/>
   <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
